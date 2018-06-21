@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wyszukiwarka godzin</string>
+    <string name="title_activity_maps">Wyszukiwarka godzin</string>
+    <string name="search_title">Szczegóły wyszukiwania</string>
+    <string name="query_button">Szukaj</string>
+    <string name="set">Ustaw</string>
+    <string name="cancel">Anuluj</string>
+    <string name="hours_title">Ustaw liczbę godzin</string>
+    <string name="limit_title">Ogranicz liczbę znalezionych rekordów</string>
+    <string name="level_text">Typ</string>
+    <string name="kind_text">Rodzaj placówki</string>
+    <string name="subject_text">Przedmiot</string>
+    <string name="hours_text">Liczba godzin w tygodniu</string>
+    <string name="means_text">Wymiar zatrudnienia</string>
+    <string-array name="levels">
+        <item></item>
+        <item>Przedszkole</item>
+        <item>Szkoła podstawowa</item>
+        <item>Gimnazjum</item>
+        <item>Liceum ogólnokształcące</item>
+        <item>Technikum</item>
+        <item>Zasadnicza szkoła zawodowa</item>
+    </string-array>
+    <string-array name="kinds">
+        <item></item>
+        <item>publiczna</item>
+        <item>niepubliczna</item>
+        <item>niepubliczna o uprawnieniach szkoły publicznej</item>
+    </string-array>
+    <string-array name="subjects">
+        <item></item>
+        <item>biologia</item>
+        <item>chemia</item>
+        <item>geografia</item>
+        <item>matematyka</item>
+        <item>informatyka</item>
+        <item>fizyka</item>
+        <item>historia</item>
+        <item>wychowanie fizyczne</item>
+        <item>język polski</item>
+        <item>język angielski</item>
+    </string-array>
+    <string-array name="means">
+        <item></item>
+        <item>Wakat</item>
+        <item>Zastępstwo</item>
+    </string-array>
+</resources>

@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">The Hours Search</string>
+    <string name="title_activity_maps">The Hours Search</string>
+    <string name="search_title">Details of search</string>
+    <string name="query_button">Search</string>
+    <string name="set">Set</string>
+    <string name="cancel">Cancel</string>
+    <string name="hours_title">Set the number of hours</string>
+    <string name="limit_title">Set the limit of found entries</string>
+    <string name="level_text">School level</string>
+    <string name="kind_text">School kind</string>
+    <string name="subject_text">Subject</string>
+    <string name="hours_text">Number of hours weekly</string>
+    <string name="means_text">Means of employment</string>
+    <string-array name="levels">
+        <item></item>
+        <item>Kindergarten</item>
+        <item>Primary school</item>
+        <item>Middle school</item>
+        <item>Secondary school</item>
+        <item>Technical school</item>
+        <item>Vocational school</item>
+    </string-array>
+    <string-array name="kinds">
+        <item></item>
+        <item>public</item>
+        <item>non-public</item>
+        <item>non-public with eligibility like public</item>
+    </string-array>
+    <string-array name="subjects">
+        <item></item>
+        <item>biology</item>
+        <item>chemistry</item>
+        <item>geography</item>
+        <item>mathematics</item>
+        <item>informatics</item>
+        <item>physics</item>
+        <item>history</item>
+        <item>physical education</item>
+        <item>Polish</item>
+        <item>English</item>
+    </string-array>
+    <string-array name="means">
+        <item></item>
+        <item>Vacancy</item>
+        <item>Replacement</item>
+    </string-array>
+</resources>
